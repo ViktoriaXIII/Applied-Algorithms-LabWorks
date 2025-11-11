@@ -1,0 +1,5 @@
+﻿  AA_LabWork#3.cpp
+D:\C++\AA_LabWork#3\AA_LabWork#3.cpp(368,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++\AA_LabWork#3\AA_LabWork#3.cpp(478,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++\AA_LabWork#3\AA_LabWork#3.cpp(565,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AA_LabWork#3.vcxproj -> D:\C++\AA_LabWork#3\x64\Debug\AA_LabWork#3.exe
