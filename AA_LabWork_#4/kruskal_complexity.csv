@@ -1,0 +1,6 @@
+Experiment_Type,N_Vertices,E_Edges,Time_ms,T(N;E) (thousands of steps)
+UnionFind_Only,1000,4000,0.24004,4
+UnionFind_Only,2000,8000,0.51842,8
+UnionFind_Only,4000,16000,1.11394,16
+UnionFind_Only,8000,32000,1.99366,32
+UnionFind_Only,16000,64000,4.54048,64
