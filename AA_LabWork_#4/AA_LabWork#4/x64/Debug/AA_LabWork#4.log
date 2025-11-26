@@ -1,0 +1,3 @@
+﻿  AA_LabWork#4.cpp
+D:\C++\AA_LabWork#4\AA_LabWork#4.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AA_LabWork#4.vcxproj -> D:\C++\AA_LabWork#4\x64\Debug\AA_LabWork#4.exe
