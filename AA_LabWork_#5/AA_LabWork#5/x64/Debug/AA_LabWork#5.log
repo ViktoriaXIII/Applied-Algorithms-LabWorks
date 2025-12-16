@@ -1,0 +1,3 @@
+﻿  AA_LabWork#5.cpp
+D:\C++\AA_LabWork#5\AA_LabWork#5.cpp(14,61): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AA_LabWork#5.vcxproj -> D:\C++\AA_LabWork#5\x64\Debug\AA_LabWork#5.exe
